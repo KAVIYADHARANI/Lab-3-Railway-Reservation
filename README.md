@@ -19,6 +19,30 @@ of the online bus ticket system is to provide another way for transnational cust
 their tickets.
 ### UML DIAGRAMS:
 
+### USECASE DIAGRAM:
+![UseCaseDiagram1](https://github.com/user-attachments/assets/8a28ff31-e766-4103-897d-027670a2182f)
+
+
+### CLASS DIAGRAM:
+
+![ClassDiagram1_r](https://github.com/user-attachments/assets/6ba5df3d-9a60-427a-9d60-7f45e8da5951)
+
+### ACTIVITY DIAGRAM:
+![ActivityDiagram1](https://github.com/user-attachments/assets/ca6a8a37-cc46-4bdb-9f2d-2dfb00d99fda)
+
+
+### COMMUNICATION DIAGRAM:
+![CommunicationDiagram1](https://github.com/user-attachments/assets/74e4fcd7-5b34-4abf-8408-8cd171148e8a)
+
+
+### SEQUENCE DIAGRAM:
+
+![SequenceDiagram1](https://github.com/user-attachments/assets/72f6c4c4-a2ff-4982-87ca-637a728400e1)
+
+### PACKAGE DIAGRAM:
+
+
+![PackageDiagram1](https://github.com/user-attachments/assets/0e102a29-064a-40da-b4a9-71b7280d615f)
 
 
 ### RESULT:
